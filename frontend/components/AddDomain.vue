@@ -111,7 +111,7 @@ import Header from './Header'
         pagination: {
    rowsPerPage: 5
 },
-      url:'http://13.233.244.138',
+      url:'',//url removed
       deleteDialog:false, 
           editDimensionDialog: false,
           addDimensionDialog:false,
